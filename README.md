@@ -12,11 +12,6 @@ Go to: http://yourIp/CodeIgniterFolder/index.php/Twitter
 
 # TwitterOAuth
 
-<<<<<<< HEAD
-Go to: https://github.com/abraham/twitteroauth
-
-Place the content of twitteroauth folder into your CodeIgniterFolder/application/libraries/twitter
-=======
 Go to: https://github.com/abraham/twitteroauth/
 
 Place the content of twitteroauth folder into your CodeIgniterFolder/application/libraries/twitter
@@ -24,4 +19,3 @@ Place the content of twitteroauth folder into your CodeIgniterFolder/application
 # Tutorial and Explanations
 
 http://www.thinkitpro.com/goodies/twitter_api_integration.html
->>>>>>> Update Readme.md
